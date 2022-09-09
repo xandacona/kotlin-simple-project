@@ -1,4 +1,4 @@
-# kotlin-simple-project
+# Kotlin Project Template
 Template Kotlin project with:
  - guice dependency injection
  - testing framework
